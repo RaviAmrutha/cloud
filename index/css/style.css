@@ -1,0 +1,212 @@
+.main
+{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+.sub1
+{
+	height: 500px;
+	width: 100%;
+	background: black;
+}
+.sub11
+{
+	height: 500px;
+	width: 50%;
+	background: white;
+	float: left;
+}
+.sub12
+{
+	height: 500px;
+	width: 50%;
+	background: white;
+	float: right;
+}
+.sub2
+{
+	height: 470px;
+}
+.face
+{
+	font-size: 15px;
+	color: blue;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+.massage
+{
+  font-size: 30px;
+  color: black;
+  padding-left: 100px;
+  padding-top: -20px;
+}
+.beauty
+{
+	padding-left: 20px;
+}
+.learn
+{
+	padding: 5px 5px 5px 5px;
+	background-color: blue;
+	border:none;
+	border-radius: 50px;
+  color: white;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: 20px;
+  position: relative;
+  top: 20px;
+}
+.perfect
+{
+   opacity: 0.7;
+   padding-left: 600px;
+}
+.full
+{
+	margin-left: 460px;
+}
+.png
+{
+	height: 320px;
+	width: 80%;
+	padding-left: 320px;
+}
+.contact
+{
+	padding: 5px 5px 5px 5px;
+	background-color: blue;
+	border:none;
+	border-radius: 50px;
+  color: white;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: relative;
+  top: 200px;
+  left: -480px;
+}
+.massage1
+{
+	height: 300px;
+	position: relative;
+	top: 200px;
+	left: 200px;
+}
+.main2
+{
+	height: 400px;
+	width: 100%;
+	background: white;
+}
+.sub3
+{
+	height: 500px;
+	width: 100%;
+	background:white;
+}
+.sub31
+{
+	height: 500px;
+	width: 50%;
+	background:white;
+	float: left;
+}
+.sub32
+{
+	height: 500px;
+	width: 50%;
+	background: white;
+	float: right;
+}
+.sub41
+{
+	height:400px;
+	width: 50%;
+	background:blue;
+	float: left;
+}
+.sub42
+{
+	height: 400px;
+	width: 50%;
+	background:blue;
+	float: right;
+}
+.facial
+{
+	height: 300px;
+	position: relative;
+	top: 150px;
+}
+.sample
+{
+	opacity: 0.7;
+	padding-top: 100px;
+  padding-left: 200px;
+}
+.music
+{
+	margin-left: 200px;
+}
+.learn1
+{
+  padding: 5px 5px 5px 5px;
+	background-color: blue;
+	border:none;
+	border-radius: 50px;
+  color: white;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: 200px;
+  position: relative;
+  top: 20px;
+}
+.about
+{
+  color: white;
+  padding-left: 300px;
+  padding-top:50px;
+}
+.skin
+{
+	color: white;
+	padding-left: 300px;
+}
+.help
+{
+	color: white;
+	padding-left: 300px;
+	padding-top: 20px;
+}
+.learn2
+{
+  padding: 5px 5px 5px 5px;
+	background-color: white;
+	color: blue;
+	border:none;
+	border-radius: 50px;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: 300px;
+  position: relative;
+  top: 40px;
+}
+.hair
+{
+	padding-top: 15px;
+	color: white;
+}
